@@ -1,0 +1,38 @@
+body {
+    font-size: 18px;
+}
+
+header {
+    background-color: #a52a2a;
+    color: #ffffff;
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+}
+
+span {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.section {
+    text-align: center;
+      
+}
+
+.section img {
+    border: 2px dashed; 
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000000;
+    text-align: center;
+    color: white;
+}
